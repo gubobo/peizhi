@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/bdata00/husongbo/repos/proxy_service'
+let g:netrw_dirhist_2='/bdata00/husongbo/code/ss_ml/ad/oracle_hadoop_train'
+let g:netrw_dirhist_3='/bdata00/husongbo/workspace/online/cypher_ad/output/cypher_dpa_run'
+let g:netrw_dirhist_4='/bdata00/husongbo/workspace/reload/local_data/cypher_ad/dpa_svc_run'
